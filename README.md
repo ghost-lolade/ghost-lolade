@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ghost-lolade
+- 👋 Hi, I’m Lolade Wahab
 - 👀 I’m interested in JS, LARAVEL, REACT, JAVA(Spring Boot) MS and taking over the world with Web3
-- 🌱 I’m currently learning Web3 and smart contracts
+- 🌱 I’m currently working on Web3 and smart contracts
 - 💞️ I’m looking to collaborate on anything that is tech or awesome
 - 📫 How to reach me---- wahlolade@gmail.com
 
